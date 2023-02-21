@@ -319,6 +319,15 @@ html{
     100%{width: 80%;}
 }
 
+.skills .skill .drupal{
+    width: 0%;
+    animation: 2s drupal forwards;
+}
+@keyframes drupal {
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
 .skills .skill .comunicacion{
     width: 0%;
     animation: 2s comunicacion forwards;
