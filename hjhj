@@ -1,0 +1,10 @@
+crear un endpoint de php que mande un correo a mramirez y mvelazquez
+donde se envia un correo html que contenga una tabla con los empleados de nuevo ingreso (fecha alta >= ayer) y 
+que no tengan cuadrilla y los campos que tendran la tabla, 
+nombre del empleado
+fecha alta
+numero de empleado
+puesto
+registro patronal
+
+dos archivos, plantilla del correo y el php (conexion, sacar info, meter info, y la plantilla mandarla por correo)
